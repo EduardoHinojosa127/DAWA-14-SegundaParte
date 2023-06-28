@@ -1,0 +1,40 @@
+.tabla-peliculas {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.tabla-peliculas th,
+.tabla-peliculas td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.tabla-peliculas th {
+  background-color: #f2f2f2;
+}
+
+.boton-pdf,
+.boton-exportar {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.boton-pdf:hover,
+.boton-exportar:hover {
+  background-color: #45a049;
+}
+
+.filtro-genero,
+.filtro-anio {
+  padding: 5px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+

@@ -1,0 +1,52 @@
+[
+  {
+    "titulo": "Pelicula 1",
+    "genero": "Acción",
+    "lanzamiento": 2020
+  },
+  {
+    "titulo": "Pelicula 2",
+    "genero": "Comedia",
+    "lanzamiento": 2018
+  },
+  {
+    "titulo": "Pelicula 3",
+    "genero": "Drama",
+    "lanzamiento": 2021
+  },
+  {
+    "titulo": "Pelicula 4",
+    "genero": "Acción",
+    "lanzamiento": 2019
+  },
+  {
+    "titulo": "Pelicula 5",
+    "genero": "Comedia",
+    "lanzamiento": 2020
+  },
+  {
+    "titulo": "Pelicula 6",
+    "genero": "Drama",
+    "lanzamiento": 2018
+  },
+  {
+    "titulo": "Pelicula 7",
+    "genero": "Acción",
+    "lanzamiento": 2021
+  },
+  {
+    "titulo": "Pelicula 8",
+    "genero": "Comedia",
+    "lanzamiento": 2020
+  },
+  {
+    "titulo": "Pelicula 9",
+    "genero": "Drama",
+    "lanzamiento": 2019
+  },
+  {
+    "titulo": "Pelicula 10",
+    "genero": "Acción",
+    "lanzamiento": 2018
+  }
+]
